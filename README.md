@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 **Inference**
 
-You need to modify model path and dataset path to make inference. Sample models and datasets are provided.
+You need to modify model path and dataset path to make inference. Sample datasets are provided in the repository. You can download our sample pretraining weight on huggingface: [MUSIC_pretrained](https://huggingface.co/infmourir/MUSIC_pretrained)
 
 ```bash 
 # inference on classifier model
